@@ -12,7 +12,7 @@
 ### Clone the repository to your local machine:
 ## shell
 * Copy code
-`$ git clone https://github.com/abdelillahbel/GameBoxAndroidApp.git`
+`$ git clone https://github.com/gdsc-ensb/GameBoxAndroidApp.git`
 * Open the project in `Android Studio` or `IntelliJ IDEA`.
 
 * Build the project and run it on an Android device or emulator.
@@ -37,4 +37,4 @@
 **Game Box is released under the MIT License.**
 
 # Contact
-If you have any questions or issues with Game Box, please contact us at `abdelillahbel@pm.me` .
+If you have any questions or issues with Game Box, please contact us at `dsc.ensb@gmail.com` .
